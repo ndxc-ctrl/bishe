@@ -1,0 +1,58 @@
+[
+{
+    "episode_id": "task_0",
+    "map_name": "CityDemopack",
+    "true_name": "Anomaly",
+    "description": "帮我巡检这条公路上有没有什么异常",
+    "start_pose": {
+      "start_position": [19353.579366587353, -8.5, 5000.0], 
+      "start_quaternionr": [0.0, 0.0, 0.7071068, 0.7071068]
+    },
+    "pose": [[20942.597773571753, 33995.600506573915, -19.999095916748047]], 
+    "info": {
+      "euclidean_distance": 44292.83
+    }
+  },
+{
+    "episode_id": "task_1",
+    "map_name": "CityDemopack",
+    "true_name": "Anomaly",
+    "description": "帮我巡检这条公路上有没有什么异常",
+    "start_pose": {
+      "start_position": [19353.579366587353, -8.5, 5000.0], 
+      "start_quaternionr": [0.0, 0.0, 0.7071068, 0.7071068]
+    },
+    "pose": [[20942.597773571753, 33995.600506573915, -19.999095916748047]], 
+    "info": {
+      "euclidean_distance": 44292.83
+    }
+  },
+{
+    "episode_id": "task_2",
+    "map_name": "CityDemopack",
+    "true_name": "Anomaly",
+    "description": "帮我巡检这条公路上有没有什么异常",
+    "start_pose": {
+      "start_position": [19353.579366587353, -8.5, 5000.0], 
+      "start_quaternionr": [0.0, 0.0, 0.7071068, 0.7071068]
+    },
+    "pose": [[20942.597773571753, 33995.600506573915, -19.999095916748047]], 
+    "info": {
+      "euclidean_distance": 44292.83
+    }
+  },
+{
+    "episode_id": "task_3",
+    "map_name": "CityDemopack",
+    "true_name": "Anomaly",
+    "description": "帮我巡检这条公路上有没有什么异常",
+    "start_pose": {
+      "start_position": [19353.579366587353, -8.5, 5000.0], 
+      "start_quaternionr": [0.0, 0.0, 0.7071068, 0.7071068]
+    },
+    "pose": [[20942.597773571753, 33995.600506573915, -19.999095916748047]], 
+    "info": {
+      "euclidean_distance": 44292.83
+    }
+  }
+]
